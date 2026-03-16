@@ -13,5 +13,6 @@ public class StringBuilderExample {
 
         // Print result
         System.out.println("Result: " + sb.toString());
+
     }
 }
